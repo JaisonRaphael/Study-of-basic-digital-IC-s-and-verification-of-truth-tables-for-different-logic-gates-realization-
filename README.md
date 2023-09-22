@@ -62,8 +62,8 @@ Y= A⊕B
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
-Developed by: Balaji K
-RegisterNumber: 212221230011 
+Developed by: Jaison Raphael V
+RegisterNumber: 212221230038
 ```
 ```
 module Gates (a, b, yand, yor, ynot, yxor, ynand, ynor, yxnor);
